@@ -146,7 +146,7 @@ function getTheme({ style, name }: { style: Style, name: string }): Record<strin
             "version_control.conflict.theirs_marker_background": null,
             "version_control.conflict.divider_background": null,
             "conflict": primer.orange[6],
-            "conflict.background": null,
+            "conflict.background": alpha(primer.orange[6] as string, .2),
             "conflict.border": pick({ light: primer.gray[2], dark: primer.white }),
             "created": pick({ light: primer.green[5], dark: primer.green[4] }),
             "created.background": alpha(pick({ light: primer.green[5], dark: primer.green[4] }), .2),
