@@ -381,7 +381,7 @@ function getTheme({ style, name }: { style: Style, name: string }): Record<strin
                     "font_weight": null
                 },
                 "function.builtin": {
-                    "color": null,
+                    "color": pick({ light: primer.purple[5], dark: primer.purple[6] }),
                     "background_color": null,
                     "font_style": null,
                     "font_weight": null
@@ -513,7 +513,7 @@ function getTheme({ style, name }: { style: Style, name: string }): Record<strin
                     "font_weight": null
                 },
                 "keyword.type": {
-                    "color": null,
+                    "color": "null",
                     "background_color": null,
                     "font_style": null,
                     "font_weight": null
@@ -789,7 +789,7 @@ function getTheme({ style, name }: { style: Style, name: string }): Record<strin
                     "font_weight": null
                 },
                 "variable.builtin": {
-                    "color": null,
+                    "color": "#000",
                     "background_color": null,
                     "font_style": null,
                     "font_weight": null
@@ -813,7 +813,7 @@ function getTheme({ style, name }: { style: Style, name: string }): Record<strin
                     "font_weight": null
                 },
                 "variant": {
-                    "color": null,
+                    "color": primer.blue[6],
                     "background_color": null,
                     "font_style": null,
                     "font_weight": null

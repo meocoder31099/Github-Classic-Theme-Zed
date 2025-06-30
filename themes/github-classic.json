@@ -364,7 +364,7 @@
             "font_weight": null
           },
           "function.builtin": {
-            "color": null,
+            "color": "#6f42c1",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -496,7 +496,7 @@
             "font_weight": null
           },
           "keyword.type": {
-            "color": null,
+            "color": "null",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -772,7 +772,7 @@
             "font_weight": null
           },
           "variable.builtin": {
-            "color": null,
+            "color": "#000",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -796,7 +796,7 @@
             "font_weight": null
           },
           "variant": {
-            "color": null,
+            "color": "#005cc5",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -1165,7 +1165,7 @@
             "font_weight": null
           },
           "function.builtin": {
-            "color": null,
+            "color": "#b392f0",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -1297,7 +1297,7 @@
             "font_weight": null
           },
           "keyword.type": {
-            "color": null,
+            "color": "null",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -1573,7 +1573,7 @@
             "font_weight": null
           },
           "variable.builtin": {
-            "color": null,
+            "color": "#000",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -1597,7 +1597,7 @@
             "font_weight": null
           },
           "variant": {
-            "color": null,
+            "color": "#79b8ff",
             "background_color": null,
             "font_style": null,
             "font_weight": null
