@@ -309,7 +309,7 @@ function getTheme({ style, name }: { style: Style, name: string }): Record<strin
                     "font_weight": null
                 },
                 "constant.builtin": {
-                    "color": null,
+                    "color": primer.blue[6],
                     "background_color": null,
                     "font_style": null,
                     "font_weight": null
