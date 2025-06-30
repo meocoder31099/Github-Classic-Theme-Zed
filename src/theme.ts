@@ -801,7 +801,7 @@ function getTheme({ style, name }: { style: Style, name: string }): Record<strin
                     "font_weight": null
                 },
                 "variable.parameter": {
-                    "color": primer.orange[6],
+                    "color": null,
                     "background_color": null,
                     "font_style": null,
                     "font_weight": null

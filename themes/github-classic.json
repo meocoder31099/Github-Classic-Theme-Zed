@@ -784,7 +784,7 @@
             "font_weight": null
           },
           "variable.parameter": {
-            "color": "#e36209",
+            "color": null,
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -1585,7 +1585,7 @@
             "font_weight": null
           },
           "variable.parameter": {
-            "color": "#ffab70",
+            "color": null,
             "background_color": null,
             "font_style": null,
             "font_weight": null
