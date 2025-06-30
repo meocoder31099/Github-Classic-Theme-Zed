@@ -807,13 +807,13 @@ function getTheme({ style, name }: { style: Style, name: string }): Record<strin
                     "font_weight": null
                 },
                 "variable.special": {
-                    "color": primer.blue[6],
+                    "color": null,
                     "background_color": null,
                     "font_style": null,
                     "font_weight": null
                 },
                 "variant": {
-                    "color": primer.blue[6],
+                    "color": null,
                     "background_color": null,
                     "font_style": null,
                     "font_weight": null
