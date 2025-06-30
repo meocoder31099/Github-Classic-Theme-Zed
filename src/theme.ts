@@ -320,12 +320,6 @@ function getTheme({ style, name }: { style: Style, name: string }): Record<strin
                     "font_style": null,
                     "font_weight": null
                 },
-                "constant.language": {
-                    "color": primer.blue[6],
-                    "background_color": null,
-                    "font_style": null,
-                    "font_weight": null
-                },
                 "constructor": {
                     "color": primer.green[6],
                     "background_color": null,
@@ -501,7 +495,7 @@ function getTheme({ style, name }: { style: Style, name: string }): Record<strin
                     "font_weight": null
                 },
                 "keyword.operator": {
-                    "color": null,
+                    "color": pick({ light: primer.red[5], dark: primer.red[6] }),
                     "background_color": null,
                     "font_style": null,
                     "font_weight": null

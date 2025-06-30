@@ -303,12 +303,6 @@
             "font_style": null,
             "font_weight": null
           },
-          "constant.language": {
-            "color": "#005cc5",
-            "background_color": null,
-            "font_style": null,
-            "font_weight": null
-          },
           "constructor": {
             "color": "#22863a",
             "background_color": null,
@@ -484,7 +478,7 @@
             "font_weight": null
           },
           "keyword.operator": {
-            "color": null,
+            "color": "#d73a49",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -1110,12 +1104,6 @@
             "font_style": null,
             "font_weight": null
           },
-          "constant.language": {
-            "color": "#79b8ff",
-            "background_color": null,
-            "font_style": null,
-            "font_weight": null
-          },
           "constructor": {
             "color": "#85e89d",
             "background_color": null,
@@ -1291,7 +1279,7 @@
             "font_weight": null
           },
           "keyword.operator": {
-            "color": null,
+            "color": "#f97583",
             "background_color": null,
             "font_style": null,
             "font_weight": null
