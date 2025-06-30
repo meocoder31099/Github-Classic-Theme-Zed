@@ -789,19 +789,19 @@ function getTheme({ style, name }: { style: Style, name: string }): Record<strin
                     "font_weight": null
                 },
                 "variable.builtin": {
-                    "color": "#000",
+                    "color": null,
                     "background_color": null,
                     "font_style": null,
                     "font_weight": null
                 },
                 "variable.member": {
-                    "color": null,
+                    "color": primer.orange[6],
                     "background_color": null,
                     "font_style": null,
                     "font_weight": null
                 },
                 "variable.parameter": {
-                    "color": null,
+                    "color": primer.orange[6],
                     "background_color": null,
                     "font_style": null,
                     "font_weight": null

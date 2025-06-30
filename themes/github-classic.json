@@ -772,19 +772,19 @@
             "font_weight": null
           },
           "variable.builtin": {
-            "color": "#000",
+            "color": null,
             "background_color": null,
             "font_style": null,
             "font_weight": null
           },
           "variable.member": {
-            "color": null,
+            "color": "#e36209",
             "background_color": null,
             "font_style": null,
             "font_weight": null
           },
           "variable.parameter": {
-            "color": null,
+            "color": "#e36209",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -1573,19 +1573,19 @@
             "font_weight": null
           },
           "variable.builtin": {
-            "color": "#000",
+            "color": null,
             "background_color": null,
             "font_style": null,
             "font_weight": null
           },
           "variable.member": {
-            "color": null,
+            "color": "#ffab70",
             "background_color": null,
             "font_style": null,
             "font_weight": null
           },
           "variable.parameter": {
-            "color": null,
+            "color": "#ffab70",
             "background_color": null,
             "font_style": null,
             "font_weight": null
