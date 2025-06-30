@@ -320,6 +320,12 @@ function getTheme({ style, name }: { style: Style, name: string }): Record<strin
                     "font_style": null,
                     "font_weight": null
                 },
+                "constant.language": {
+                    "color": primer.blue[6],
+                    "background_color": null,
+                    "font_style": null,
+                    "font_weight": null
+                },
                 "constructor": {
                     "color": primer.green[6],
                     "background_color": null,
@@ -411,7 +417,7 @@ function getTheme({ style, name }: { style: Style, name: string }): Record<strin
                     "font_weight": null
                 },
                 "function.method.call": {
-                    "color": null,
+                    "color": pick({ light: primer.purple[5], dark: primer.purple[6] }),
                     "background_color": null,
                     "font_style": null,
                     "font_weight": null
@@ -813,7 +819,7 @@ function getTheme({ style, name }: { style: Style, name: string }): Record<strin
                     "font_weight": null
                 },
                 "variant": {
-                    "color": "#000",
+                    "color": null,
                     "background_color": null,
                     "font_style": null,
                     "font_weight": null
