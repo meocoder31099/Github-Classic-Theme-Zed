@@ -214,7 +214,7 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#000",
+            "color": null,
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -232,7 +232,7 @@
             "font_weight": null
           },
           "character.special": {
-            "color": "null",
+            "color": null,
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -742,7 +742,7 @@
             "font_weight": null
           },
           "type.class.definition": {
-            "color": null,
+            "color": "#6f42c1",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -754,7 +754,7 @@
             "font_weight": null
           },
           "type.interface": {
-            "color": null,
+            "color": "#6f42c1",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -1015,7 +1015,7 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#000",
+            "color": null,
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -1033,7 +1033,7 @@
             "font_weight": null
           },
           "character.special": {
-            "color": "null",
+            "color": null,
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -1543,7 +1543,7 @@
             "font_weight": null
           },
           "type.class.definition": {
-            "color": null,
+            "color": "#b392f0",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -1555,7 +1555,7 @@
             "font_weight": null
           },
           "type.interface": {
-            "color": null,
+            "color": "#b392f0",
             "background_color": null,
             "font_style": null,
             "font_weight": null

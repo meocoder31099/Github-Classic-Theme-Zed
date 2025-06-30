@@ -759,7 +759,7 @@ function getTheme({ style, name }: { style: Style, name: string }): Record<strin
                     "font_weight": null
                 },
                 "type.class.definition": {
-                    "color": null,
+                    "color": pick({ light: primer.purple[5], dark: primer.purple[6] }),
                     "background_color": null,
                     "font_style": null,
                     "font_weight": null
