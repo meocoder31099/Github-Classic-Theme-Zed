@@ -68,7 +68,7 @@ function getTheme({ style, name }: { style: Style, name: string }): Record<strin
             "tab_bar.background": pick({ light: primer.gray[1], dark: "#1f2428" }),
             "tab.inactive_background": pick({ light: primer.gray[1], dark: "#1f2428" }),
             "tab.active_background": pick({ light: primer.white, dark: primer.gray[0] }),
-            "search.match_background": pick({ light: primer.yellow[4], dark: "#ffd33d44" }),
+            "search.match_background": pick({ light: primer.yellow[4], dark: alpha(primer.yellow[4] as string, .1) }),
             "panel.background": pick({ light: primer.gray[1], dark: "#1f2428" }),
             "panel.focused_border": pick({ light: primer.blue[4], dark: primer.blue[5] }),
             "panel.indent_guide": pick({ light: "#eff2f6", dark: primer.gray[1] }),

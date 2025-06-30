@@ -852,7 +852,7 @@
         "tab_bar.background": "#1f2428",
         "tab.inactive_background": "#1f2428",
         "tab.active_background": "#24292e",
-        "search.match_background": "#ffd33d44",
+        "search.match_background": "#ffd33d1a",
         "panel.background": "#1f2428",
         "panel.focused_border": "#2188ff",
         "panel.indent_guide": "#2f363d",
