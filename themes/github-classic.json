@@ -54,7 +54,7 @@
         "search.match_background": "#ffdf5d",
         "panel.background": "#f6f8fa",
         "panel.focused_border": "#2188ff",
-        "panel.indent_guide": "#eff2f6",
+        "panel.indent_guide": "#e1e4e8",
         "panel.indent_guide_hover": "#d7dbe0",
         "panel.indent_guide_active": "#d7dbe0",
         "pane.focused_border": "#2188ff",

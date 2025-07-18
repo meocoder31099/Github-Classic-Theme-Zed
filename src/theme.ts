@@ -71,7 +71,7 @@ function getTheme({ style, name }: { style: Style, name: string }): Record<strin
             "search.match_background": pick({ light: primer.yellow[4], dark: alpha(primer.yellow[4] as string, .1) }),
             "panel.background": pick({ light: primer.gray[1], dark: "#1f2428" }),
             "panel.focused_border": pick({ light: primer.blue[4], dark: primer.blue[5] }),
-            "panel.indent_guide": pick({ light: "#eff2f6", dark: primer.gray[1] }),
+            "panel.indent_guide": pick({ light: primer.gray[2], dark: primer.gray[1] }),
             "panel.indent_guide_hover": pick({ light: "#d7dbe0", dark: primer.gray[2] }),
             "panel.indent_guide_active": pick({ light: "#d7dbe0", dark: primer.gray[2] }),
             "pane.focused_border": pick({ light: primer.blue[4], dark: primer.blue[5] }),
