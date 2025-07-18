@@ -190,7 +190,7 @@ function getTheme({ style, name }: { style: Style, name: string }): Record<strin
             "players": [
                 {
                     "cursor": primer.blue[6],
-                    "selection": alpha(primer.blue[2] as string, 0.2),
+                    "selection": pick({ light: alpha(primer.blue[3] as string, 0.2), dark: alpha(primer.blue[2] as string, 0.2) }),
                     "background": primer.blue[6]
                 },
                 {
